@@ -360,4 +360,4 @@ git latexdiff HEAD~1
 ```
 
 - 注意事项
-  - 因为latexdiff本身用颜色来区分不同版本，因此原文件不能`\usepackage{ulem}`，也不要带颜色，否则容易产生冲突。
+  - 因为latexdiff本身用颜色来区分不同版本，因此原文件不能使用`\usepackage{ulem}`，也不要带颜色，否则容易产生冲突。
