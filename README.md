@@ -13,5 +13,5 @@
 
 ## 查找学术资料
 
-- 如果 [google sholar](https://scholar.google.com/) 上无法轻松获得论文，可以去 [sci-hub](https://sci-hub.hkvisa.net/) 碰碰运气
-- 教材可以去 [libgen](http://libgen.rs/)，非常好用
+- 如果 [google scholar](https://scholar.google.com/) 上无法轻松获得论文，可以去 [sci-hub](https://sci-hub.hkvisa.net/) 碰碰运气
+- 教材可以去 [libgen](http://libgen.rs/)或者[zlibrary](https://cn1lib.is)，非常好用
