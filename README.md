@@ -1,11 +1,14 @@
-**<kbd>Research_Toolbox</kbd>**
+**<kbd>Research_Toolbox</kbd>** 
 
-
+[1. Academic PPT](#1-academic-ppt)
 - [1. Academic PPT](#1-academic-ppt)
   - [1.1. 插图](#11-插图)
 - [2. Academic Writing](#2-academic-writing)
-  - [2.2. 查找学术资料](#22-查找学术资料)
-  - [2.1. English Polishing](#21-english-polishing)
+  - [2.1. 查找学术资料](#21-查找学术资料)
+  - [2.2. English Polishing](#22-english-polishing)
+
+
+
 
 
 ## 1. Academic PPT
@@ -18,14 +21,19 @@
 
 ## 2. Academic Writing
 
-### 2.2. 查找学术资料
+### 2.1. 查找学术资料
 
 - 如果 [google scholar](https://scholar.google.com/) 上无法轻松获得论文，可以去 [sci-hub](https://sci-hub.hkvisa.net/) 碰碰运气
 - 教材可以去 [libgen](http://libgen.rs/) 或者 [zlibrary](https://cn1lib.is)，非常好用
 
-### 2.1. English Polishing
+### 2.2. English Polishing
 
 - 同义词替换（from `good` to `terrific`)：[freethesaurus](https://www.freethesaurus.com/) 和 [thesaurus](https://www.thesaurus.com/) 
 - chatGPT 永远的神
 - [ ] <kbd>QH</kbd>：读文献时看到的一些优美用法将持续更新在[Beautiful_Acedemic_Writing.md](./Beautiful_Acedemic_Writing.md)
   - 0429: 空的
+- [1. Academic PPT](#1-academic-ppt)
+  - [1.1. 插图](#11-插图)
+- [2. Academic Writing](#2-academic-writing)
+  - [2.1. 查找学术资料](#21-查找学术资料)
+  - [2.2. English Polishing](#22-english-polishing)
