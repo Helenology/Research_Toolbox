@@ -1,6 +1,6 @@
 **<kbd>Research_Toolbox</kbd>** 
 
-[1. Academic PPT](#1-academic-ppt)
+
 - [1. Academic PPT](#1-academic-ppt)
   - [1.1. 插图](#11-插图)
 - [2. Academic Writing](#2-academic-writing)
@@ -32,8 +32,3 @@
 - chatGPT 永远的神
 - [ ] <kbd>QH</kbd>：读文献时看到的一些优美用法将持续更新在[Beautiful_Acedemic_Writing.md](./Beautiful_Acedemic_Writing.md)
   - 0429: 空的
-- [1. Academic PPT](#1-academic-ppt)
-  - [1.1. 插图](#11-插图)
-- [2. Academic Writing](#2-academic-writing)
-  - [2.1. 查找学术资料](#21-查找学术资料)
-  - [2.2. English Polishing](#22-english-polishing)
