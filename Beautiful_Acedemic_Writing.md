@@ -6,8 +6,8 @@ Contributor: Qianhan Zeng
 # Methodology
 
 **🚩satisfy a condition/assumption/structure/...**
-- `admit` 替换 `satisfy`：*The original ordering may not ==admit== a property/structure/condition.*
-- `accomodate` 近似替换 `satisfy`：*To ==accommodate== a flexible correlation structure for our model, this article proposes a new multivariate logistic density.*
-- `respect` 替换 `satisfy`：*All the above assumptions are ==respected== by most of the popular kernels, in particular the Gaussian, Exponential, Uniform, Triangular, Cosine kernel, etc.*
+- `admit` 替换 `satisfy`：*The original ordering may not `admit` a property/structure/condition.*
+- `accomodate` 近似替换 `satisfy`：*To `accommodate` a flexible correlation structure for our model, this article proposes a new multivariate logistic density.*
+- `respect` 替换 `satisfy`：*All the above assumptions are `respected` by most of the popular kernels, in particular the Gaussian, Exponential, Uniform, Triangular, Cosine kernel, etc.*
 
 # Experiments
