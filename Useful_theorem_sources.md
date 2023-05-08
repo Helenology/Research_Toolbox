@@ -1,4 +1,13 @@
-This document records some references of important lemmas and theorems in statistics. Some applications are also provided. (参考文献格式来自Google Scholar，可能有书籍的年份问题，建议以论文中常见的引用格式为主）
+This document records some references of important lemmas and theorems in statistics. Some applications are also provided. 
+
+ - 这里主要记录可能有必要引用的参考文献，一些耳熟能详，人尽皆知，脍炙人口的定理（如Taylor expansion, Cauchy-Schwarz inequality, Holder inequality, Dominated Convergence Theorem...）可能就被选择性地掠过了
+ - 参考文献格式来自Google Scholar，可能有书籍的年份问题，建议以论文中常见的引用格式为主
+ - 暂时未考虑按照什么顺序展示较好，如有更好的提议，欢迎提出！
+ - 本处只提供参考文献名，具体的pdf自行搜索。
+
+### Generalized Linear Model
+
+- McCullagh, P. and Nelder, J. A. (2019), Generalized linear models, Routledge, New York.
 
 ### Inequality
 
