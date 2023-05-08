@@ -11,7 +11,7 @@ This document records some references of important lemmas and theorems in statis
 - Vershynin, R. (2018). High-dimensional probability: An introduction with applications in data science (Vol. 47). Cambridge university press.
 - Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge university press.
 
-### General results in statistics (e.g. LLN and CLT)
+### Asymptotic Theory (e.g. LLN and CLT)
 
 - Shao, J. (2003). Mathematical statistics. Springer Science & Business Media.
 
@@ -20,6 +20,14 @@ This document records some references of important lemmas and theorems in statis
 - Van der Vaart, A. W. (2000). Asymptotic statistics (Vol. 3). Cambridge university press.
 
 This book records various topics of statistics. Highly recommanded !!
+
+#### Convergence rate in parametric model
+
+- Fan, J., & Li, R. (2001). Variable selection via nonconcave penalized likelihood and its oracle properties. Journal of the American statistical Association, 96(456), 1348-1360.
+
+This technique is generalized to the case of diverging dimensional in the following article.
+
+- Fan, J., & Peng, H. (2004). Nonconcave penalized likelihood with a diverging number of parameters. Annals of statistics, 32(3), 928-961.
 
 ### Martingale CLT 
 
@@ -31,4 +39,19 @@ This theorem is commonly used in time series analysis and high dimensional hypot
 
 - Chen, S. X., & Qin, Y. L. (2010). A two-sample test for high-dimensional data with applications to gene-set testing.
 
-Construct a martingale difference sequences to prove the asymptotic normality of the test statistic based on high dimensional data. 
+This paper constructs a martingale difference sequences to prove the asymptotic normality of the test statistic based on high dimensional data. 
+
+### Empirical Process Theory
+
+Empirical process theory is widely used in econometrics and statistics. However, this theory might be much more abstract and mathematical than other fields in statistics. More efforts should be paid if you want to master the knowledge.
+
+- Van Der Vaart, A. W., Wellner, J. A., van der Vaart, A. W., & Wellner, J. A. (1996). Weak convergence and empirical process. Springer New York.
+- Kosorok, M. R. (2008). Introduction to empirical processes and semiparametric inference. New York: Springer.
+
+#### Applications in non-differentiable objective functions
+- Newey, W. K., & McFadden, D. (1994). Large sample estimation and hypothesis testing. Handbook of econometrics, 4, 2111-2245.
+- Chen, X., Linton, O., & Van Keilegom, I. (2003). Estimation of semiparametric models when the criterion function is not smooth. Econometrica, 71(5), 1591-1608.
+
+#### Applications in nonparametric estimation
+- Han, Q., Wang, T., Chatterjee, S., & Samworth, R. J. (2019). Isotonic regression in general dimensions. Annals of Statistics, 47(5), 2440-2471.
+- Schmidt-Hieber, J. (2020). Nonparametric regression using deep neural networks with ReLU activation function. Annals of Statistics, 48(4), 1875-1897
