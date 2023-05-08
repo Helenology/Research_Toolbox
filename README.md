@@ -32,4 +32,8 @@
 - chatGPT 永远的神
 - [ ] <kbd>QH</kbd>：读文献时看到的一些科研用语将持续更新在 [Beautiful_Acedemic_Writing.md](./Beautiful_Acedemic_Writing.md)
   - [x] 最新更新 230501
+  
+  
+### 2.3 Theorem Citation
+- If you want to find some important theorems as references, start with consult this document [Useful theorem sources](./Useful theorem sources.md)
 
