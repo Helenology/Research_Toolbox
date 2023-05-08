@@ -35,5 +35,5 @@
   
   
 ### 2.3 Theorem Citation
-- If you want to find some important theorems as references, start with consult this document [Useful theorem sources](./Useful theorem sources.md)
+- If you want to find some important theorems as references, start with consult this document [Useful theorem sources](./Useful_theorem_sources.md)
 
