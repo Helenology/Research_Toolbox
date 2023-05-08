@@ -15,7 +15,7 @@ This document records some references of important lemmas and theorems in statis
 
 - Ross, S. (2010). A first course in probability. Pearson.
 
-#### Concerntration inequalies (mainly for non-asymptotic results)
+#### Concentration inequalies (mainly for non-asymptotic results)
 
 - Vershynin, R. (2018). High-dimensional probability: An introduction with applications in data science (Vol. 47). Cambridge university press.
 - Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge university press.
@@ -46,9 +46,11 @@ This theorem is commonly used in time series analysis and high dimensional hypot
 
 #### Some applications
 
-- Chen, S. X., & Qin, Y. L. (2010). A two-sample test for high-dimensional data with applications to gene-set testing.
+- Chen, S. X., & Qin, Y. L. (2010). A two-sample test for high-dimensional data with applications to gene-set testing. The Annals of Statistics, 38(2), 808-835.
 
 This paper constructs a martingale difference sequences to prove the asymptotic normality of the test statistic based on high dimensional data. 
+
+- Zhu, X., Pan, R., Li, G., Liu, Y., & Wang, H. (2017). Network vector autoregression. The Annals of Statistics, 45, 1096-1123.
 
 ### Empirical Process Theory
 
@@ -64,3 +66,22 @@ Empirical process theory is widely used in econometrics and statistics. However,
 #### Applications in nonparametric estimation
 - Han, Q., Wang, T., Chatterjee, S., & Samworth, R. J. (2019). Isotonic regression in general dimensions. Annals of Statistics, 47(5), 2440-2471.
 - Schmidt-Hieber, J. (2020). Nonparametric regression using deep neural networks with ReLU activation function. Annals of Statistics, 48(4), 1875-1897
+
+
+### Time Series Analysis
+
+### Model Averaging
+
+### Random Matrix Theory
+
+### Feature Screening
+
+### Factor Model
+
+### Quantile Regression
+
+### Some Important Results for Matrices
+
+### Weakly Dependent Data
+
+### To Be Continued...
