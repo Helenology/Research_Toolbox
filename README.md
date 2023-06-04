@@ -1,14 +1,15 @@
 **<kbd>Research_Toolbox</kbd>** 
 
 
+
 - [1. Academic PPT](#1-academic-ppt)
   - [1.1. 插图](#11-插图)
 - [2. Academic Writing](#2-academic-writing)
   - [2.1. 查找学术资料](#21-查找学术资料)
   - [2.2. English Polishing](#22-english-polishing)
-  - [2.3. 小 Tips](#23-小-tips)
-  - [2.4. 投稿过程](#24-投稿过程)
-
+  - [2.3. Theorem Citation](#23-theorem-citation)
+  - [2.4. 小 Tips](#24-小-tips)
+  - [2.5. 投稿过程](#25-投稿过程)
 
 
 
