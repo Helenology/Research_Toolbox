@@ -10,7 +10,8 @@
   - [2.2. English Polishing](#22-english-polishing)
   - [2.3. Theorem Citation](#23-theorem-citation)
   - [2.4. git+LaTex 版本控制+增删审阅](#24-gitlatex-版本控制增删审阅)
-  - [2.5. 小 Tips](#25-小-tips)
+  - [2.5. Coding](#25-coding)
+  - [2.6. 小 Tips](#26-小-tips)
 - [3. Submission](#3-submission)
   - [3.1. 期刊挑选策略](#31-期刊挑选策略)
   - [3.2. 如何写 reply letter](#32-如何写-reply-letter)
@@ -62,12 +63,19 @@
 ### 2.4. git+LaTex 版本控制+增删审阅
 - [ ] todo：六月一定写，咕咕咕
 
-### 2.5. 小 Tips
+### 2.5. Coding
+- 代码结构可以参考别人的repo，例如 [negative-label-smoothing](https://github.com/UCSC-REAL/negative-label-smoothing) 和 [CCD](https://github.com/tianyu0207/CCD)
+- [ ] 代码注释风格
+- argparse（或者类似的功能）：https://tendcode.com/article/python-shell/
+  > 用于命令行传参
+
+
+### 2.6. 小 Tips
 
 - 英文标题自动大小写：https://www.wordpressleaf.com/capitalize-title
   > 一般从谷歌学术上复制bibtex，但是参考文献的文章标题大小写往往风格不同，可能全部大写，全部小写，首字母大写等等，这个时候需要手动调整，可以把标题复制到这个网站上自动首字母大写
   
-- 画图采用R里最朴素的`plot`和`boxplot`即可，使用灰色色调，如果使用花里胡哨的颜色可能会在交版面费的时候多交$500😭
+- 画图采用R里最朴素的`plot`和`boxplot`即可，使用灰色色调，如果使用花里胡哨的颜色可能会在交版面费的时候多交💰500😭
 
 
 ## 3. Submission
