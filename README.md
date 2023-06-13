@@ -68,6 +68,7 @@
 - [ ] 代码注释风格
 - argparse（或者类似的功能）：https://tendcode.com/article/python-shell/
   > 用于命令行传参
+- [ ] 实际编程中遇到的常见问题以及解决办法将持续更新在 [Practical_Coding_Solutions](./Practical_Coding_Solutions.md)
 
 
 ### 2.6. 小 Tips
