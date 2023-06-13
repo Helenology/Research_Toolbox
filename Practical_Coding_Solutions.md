@@ -14,4 +14,7 @@
 
 ## R 画图
 
+- 写的不错的教程，(四川师范大学研究生公选课《数据科学中的R语言》的课程)[https://bookdown.org/wangminjie/R4DS/]
+
 - [ ] 如何读入一个文件夹下的所有csv文件
+- [ ] 正则表达式，(stringr)[https://bookdown.org/wangminjie/R4DS/tidyverse-stringr.html]
