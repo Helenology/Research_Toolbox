@@ -30,13 +30,17 @@ This document records some references of important lemmas and theorems in statis
 
 This book records various topics of statistics. Highly recommanded !!
 
-#### Convergence rate in parametric model
+- Newey, W. K., & McFadden, D. (1994). Large sample estimation and hypothesis testing. Handbook of econometrics, 4, 2111-2245.
+
+#### Local consistency and rate of convergence in parametric model
 
 - Fan, J., & Li, R. (2001). Variable selection via nonconcave penalized likelihood and its oracle properties. Journal of the American statistical Association, 96(456), 1348-1360.
 
 This technique is generalized to the case of diverging dimensional in the following article.
 
 - Fan, J., & Peng, H. (2004). Nonconcave penalized likelihood with a diverging number of parameters. Annals of statistics, 32(3), 928-961.
+
+Note: Local consistency means there exists a local maximizer such that the estimator will convergence in probability to it. Given the loss function is convex, the local maxima is also the global maxima. The local consistency is just the global consistency. While for nonconvex loss function, the local maxima might not be the global maxima, this method might not be used in such cases.
 
 ### Martingale CLT 
 
