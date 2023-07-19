@@ -30,13 +30,17 @@ This document records some references of important lemmas and theorems in statis
 
 This book records various topics of statistics. Highly recommanded !!
 
-#### Convergence rate in parametric model
+- Newey, W. K., & McFadden, D. (1994). Large sample estimation and hypothesis testing. Handbook of econometrics, 4, 2111-2245.
+
+#### Local consistency and rate of convergence in parametric model
 
 - Fan, J., & Li, R. (2001). Variable selection via nonconcave penalized likelihood and its oracle properties. Journal of the American statistical Association, 96(456), 1348-1360.
 
 This technique is generalized to the case of diverging dimensional in the following article.
 
 - Fan, J., & Peng, H. (2004). Nonconcave penalized likelihood with a diverging number of parameters. Annals of statistics, 32(3), 928-961.
+
+Note: Local consistency means there exists a local maximizer such that the estimator will converge in probability (or almost surely) to it. Given the loss function is convex, the local maxima is also the global maxima. The local consistency is just the global consistency. While for nonconvex loss function, the local maxima might not be the global maxima, the methods in Fan and Li (2001) might not be used in such cases. An alternative proof technique might be the consistency theorem in Newey and McFadden (1994), but the verification of identification condition might be challenging.
 
 ### Martingale CLT 
 
@@ -67,6 +71,9 @@ Empirical process theory is widely used in econometrics and statistics. However,
 - Han, Q., Wang, T., Chatterjee, S., & Samworth, R. J. (2019). Isotonic regression in general dimensions. Annals of Statistics, 47(5), 2440-2471.
 - Schmidt-Hieber, J. (2020). Nonparametric regression using deep neural networks with ReLU activation function. Annals of Statistics, 48(4), 1875-1897
 
+### Linear Algebra
+
+- Seber, G. A. (2008). A matrix handbook for statisticians. John Wiley & Sons.
 
 ### Time Series Analysis
 
@@ -79,8 +86,6 @@ Empirical process theory is widely used in econometrics and statistics. However,
 ### Factor Model
 
 ### Quantile Regression
-
-### Some Important Results for Matrices
 
 ### Weakly Dependent Data
 
