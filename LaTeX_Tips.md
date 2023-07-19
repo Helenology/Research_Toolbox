@@ -147,3 +147,10 @@ git latexdiff HEAD~1
 
 - 注意事项
   - 因为latexdiff本身用颜色来区分不同版本，因此原文件不能使用`\usepackage{ulem}`，也不要带颜色，否则容易产生冲突。
+
+
+### 1.4 一些快捷LaTex参考
+
+- latex表格生成器：https://www.tablesgenerator.com/
+  > 复制数据到网站上，调整格式（边框、三线表），自动生成LaTex表格
+

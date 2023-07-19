@@ -9,7 +9,7 @@
   - [2.1. 查找学术资料](#21-查找学术资料)
   - [2.2. English Polishing](#22-english-polishing)
   - [2.3. Theorem Citation](#23-theorem-citation)
-  - [2.4. git+LaTex 版本控制+增删审阅](#24-gitlatex-版本控制增删审阅)
+  - [2.4. LaTex Tips](#24-latex-tips)
   - [2.5. Coding](#25-coding)
   - [2.6. 小 Tips](#26-小-tips)
 - [3. Submission](#3-submission)
@@ -60,8 +60,8 @@
 - If you want to find some important theorems as references, start with consulting this document [Useful theorem sources](./Useful_theorem_sources.md).
 
 
-### 2.4. git+LaTex 版本控制+增删审阅
-- [ ] todo：六月一定写，咕咕咕
+### 2.4. LaTex Tips
+- 具体详参 [LaTex Tips](./LaTeX_Tips.md)
 
 ### 2.5. Coding
 - 代码结构可以参考别人的repo，例如 [negative-label-smoothing](https://github.com/UCSC-REAL/negative-label-smoothing) 和 [CCD](https://github.com/tianyu0207/CCD)
