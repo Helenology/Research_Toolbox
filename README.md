@@ -61,7 +61,7 @@
 
 
 ### 2.4. LaTex Tips
-- 具体详参 [LaTex Tips](./LaTeX_Tips.md)
+- 具体详参 [LaTex Tips](LaTeX_Tips.md)
 
 ### 2.5. Coding
 - 代码结构可以参考别人的repo，例如 [negative-label-smoothing](https://github.com/UCSC-REAL/negative-label-smoothing) 和 [CCD](https://github.com/tianyu0207/CCD)
