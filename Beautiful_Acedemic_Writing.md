@@ -34,3 +34,8 @@ Contributor: Qianhan Zeng
 ### Point-By-Point Reponse to Reviewer
 
 **🚩句首感谢Reviewer提出宝贵意见**
+
+- Thank you so much for this important comment.
+- Thank you so much for the (highly) considerate advice.
+- Thank you so much for the careful reading.
+  
