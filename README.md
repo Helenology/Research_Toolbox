@@ -13,7 +13,8 @@
   - [2.5. Coding](#25-coding)
   - [2.6. 小 Tips](#26-小-tips)
 - [3. Submission](#3-submission)
-  - [3.1. 如何与editor沟通](#31-如何与editor沟通)
+  - [3.1. reply letter](#31-reply-letter)
+  - [3.2. 如何与editor沟通](#32-如何与editor沟通)
   - [3.x. 求神拜佛](#3x-求神拜佛)
 
 
@@ -84,11 +85,15 @@
 
 - [ ] todo
 
-### 3.2. 如何写 reply letter
-
 - [ ] todo -->
 
-### 3.1. 如何与editor沟通
+### 3.1. reply letter
+
+- reply letter里可以直接抄抄改改的句子见 [Beautiful_Acedemic_Writing](/Beautiful_Acedemic_Writing.md)
+
+
+
+### 3.2. 如何与editor沟通
 
 > 比如你的文章还没发表，但是你又发现了一大堆typo😳
 
