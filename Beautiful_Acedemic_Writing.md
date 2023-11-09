@@ -28,6 +28,12 @@ Contributor: Qianhan Zeng
 
 # Experiments
 
+# Reference
+
+- 英文标题自动大小写：https://www.wordpressleaf.com/capitalize-title
+  > 一般从谷歌学术上复制bibtex，但是参考文献的文章标题大小写往往风格不同，可能全部大写，全部小写，首字母大写等等，这个时候需要手动调整，可以把标题复制到这个网站上自动首字母大写
+
+- 画图采用R里最朴素的`plot`和`boxplot`即可，使用灰色色调，如果使用花里胡哨的颜色可能会在交版面费的时候多交💰500😭
 
 # Reply Letter
 
@@ -38,4 +44,8 @@ Contributor: Qianhan Zeng
 - Thank you so much for this important comment.
 - Thank you so much for the (highly) considerate advice.
 - Thank you so much for the careful reading.
-  
+
+
+**🚩句尾欢迎Reviewer继续提出宝贵意见**
+- Your further comments would be much appreciated.
+- Your further suggestions are very welcome.

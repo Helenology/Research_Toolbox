@@ -1,19 +1,13 @@
-# **TIPS**
 
 [TOC]
 
-## 前言
 
-Tips for LaTeX
-
-## 1 Latex
-
-### 1.1 Latex基本使用文档
+## 1 Latex基本使用文档
 
 - [一份短小有用的Latex文档](https://liam.page/2014/09/08/latex-introduction/)
 - [该作者主页](https://liam.page/)，有很多其他有用资料
 
-### 1.2 Latex与VScode
+### 1.1 Latex与VScode
 
 - 查看PDF： 'option+cmd+v'
 - 正向触发：edit' > 'SyncTeX from cursor' in the side bar, or by the shortcut cmd+option+j
@@ -132,7 +126,7 @@ Tips for LaTeX
   ]
 ```
 
-### 1.3 Latex与Github
+### 1.2 Latex与Github
 
 - 安装 git latexdiff
 [git 网址](https://gitlab.com/git-latexdiff/git-latexdiff)
@@ -148,9 +142,4 @@ git latexdiff HEAD~1
 - 注意事项
   - 因为latexdiff本身用颜色来区分不同版本，因此原文件不能使用`\usepackage{ulem}`，也不要带颜色，否则容易产生冲突。
 
-
-### 1.4 一些快捷LaTex参考
-
-- latex表格生成器：https://www.tablesgenerator.com/
-  > 复制数据到网站上，调整格式（边框、三线表），自动生成LaTex表格
 
