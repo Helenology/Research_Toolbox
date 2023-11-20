@@ -1,6 +1,31 @@
 **<kbd>Research_Toolbox</kbd>** 
 
-[TOC]
+- [1. Academic PPT](#1-academic-ppt)
+  - [1.1 Latex 数学公式](#11-latex-数学公式)
+  - [1.2. 插图](#12-插图)
+  - [1.3. 演讲技巧](#13-演讲技巧)
+- [2. Academic Writing](#2-academic-writing)
+  - [English Recycling and Polishing ✨](#english-recycling-and-polishing-)
+  - [Abstract](#abstract)
+  - [Introduction](#introduction)
+  - [Literature](#literature)
+    - [查找学术资料](#查找学术资料)
+    - [文献管理](#文献管理)
+  - [Methodology](#methodology)
+    - [Proof Theorem Citation](#proof-theorem-citation)
+    - [Formula Requirements](#formula-requirements)
+  - [Numerical Study](#numerical-study)
+    - [Coding](#coding)
+  - [Table and Figure](#table-and-figure)
+    - [Table](#table)
+    - [Sub-Figures](#sub-figures)
+  - [Reference](#reference)
+  - [LaTex Tips](#latex-tips)
+- [3. Submission](#3-submission)
+  - [3.1. reply letter](#31-reply-letter)
+  - [3.2. 如何与editor沟通](#32-如何与editor沟通)
+  - [3.x. 求神拜佛](#3x-求神拜佛)
+
 
 
 
@@ -56,10 +81,17 @@
 
 
 
-## Literature 查找学术资料
+## Literature 
+
+### 查找学术资料
 
 - 如果 [google scholar](https://scholar.google.com/) 上无法轻松获得论文，可以去 [sci-hub](https://sci-hub.hkvisa.net/) 碰碰运气
 - 教材可以去 [libgen](http://libgen.rs/) 或者 [zlibrary](https://cn1lib.is)，非常好用
+
+### 文献管理
+
+- 文献管理软件，推荐 [zotero](https://github.com/zotero/zotero) 及相关的灰常好用的插件：
+  1. [zotero-style](https://github.com/MuiseDestiny/zotero-style)：标签、#标签、进度 这三个功能还不错
 
 
 ## Methodology
