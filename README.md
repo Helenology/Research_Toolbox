@@ -10,7 +10,7 @@
   - [Introduction](#introduction)
   - [Literature](#literature)
     - [查找学术资料](#查找学术资料)
-    - [文献管理](#文献管理)
+    - [文献管理软件+插件](#文献管理软件插件)
   - [Methodology](#methodology)
     - [Proof Theorem Citation](#proof-theorem-citation)
     - [Formula Requirements](#formula-requirements)
@@ -88,7 +88,7 @@
 - 如果 [google scholar](https://scholar.google.com/) 上无法轻松获得论文，可以去 [sci-hub](https://sci-hub.hkvisa.net/) 碰碰运气
 - 教材可以去 [libgen](http://libgen.rs/) 或者 [zlibrary](https://cn1lib.is)，非常好用
 
-### 文献管理
+### 文献管理软件+插件
 
 - 文献管理软件，推荐 [zotero](https://github.com/zotero/zotero) 及相关的灰常好用的插件：
   1. [zotero-style](https://github.com/MuiseDestiny/zotero-style)：标签、#标签、进度 这三个功能还不错
