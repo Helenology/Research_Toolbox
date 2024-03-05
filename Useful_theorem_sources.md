@@ -75,6 +75,22 @@ Empirical process theory is widely used in econometrics and statistics. However,
 
 - Seber, G. A. (2008). A matrix handbook for statisticians. John Wiley & Sons.
 
+### High Dimensional Linear Regression 
+
+The key procedure in the high dimensional linear regression is to verify the Restricted Eigenvalue (RE) condition (or some related condition such as RSC (restricted strongly convex) ).
+
+The following references provides the proof of related condition under the Gaussian design.  
+
+- Raskutti, G., Wainwright, M. J., & Yu, B. (2010). Restricted eigenvalue properties for correlated Gaussian designs. The Journal of Machine Learning Research, 11, 2241-2259.
+- Wainwright, M. J. (2019). High-dimensional statistics: A non-asymptotic viewpoint (Vol. 48). Cambridge university press.
+
+The following references provides the proof of related condition under the sub-Gaussian design.
+
+- Rudelson, M., & Zhou, S. (2012, June). Reconstruction from anisotropic random measurements. In Conference on Learning Theory (pp. 10-1). JMLR Workshop and Conference Proceedings.
+
+The following references provides the proof of related condition under the sub-Weibull design.
+
+- Kuchibhotla, A. K., & Chakrabortty, A. (2022). Moving beyond sub-Gaussianity in high-dimensional statistics: Applications in covariance estimation and linear regression. Information and Inference: A Journal of the IMA, 11(4), 1389-1456.
 ### Time Series Analysis
 
 ### Model Averaging
