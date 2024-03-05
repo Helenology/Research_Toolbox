@@ -16,6 +16,10 @@ Contributor: Qianhan Zeng
   
 
 
+# Literature
+
+**🚩 前人的工作很多：**
+- The limited scalability of interior point methods has `inspired a recent ﬂurry of work` on ﬁrst-order methods.
 
 
 
