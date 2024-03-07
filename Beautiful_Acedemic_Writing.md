@@ -18,8 +18,10 @@ Contributor: Qianhan Zeng
 
 # Literature
 
-**🚩 前人的工作很多：**
+**🚩 总起介绍前人的工作：**
 - The limited scalability of interior point methods has `inspired a recent ﬂurry of work` on ﬁrst-order methods.
+- `A line of recent research pursues` calculation of principal components under error minimization.
+
 
 
 
