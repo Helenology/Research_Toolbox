@@ -23,6 +23,8 @@ Contributor: Qianhan Zeng
 - `A line of recent research pursues` calculation of principal components under error minimization.
 
 
+**🚩 批评前人的工作：**
+- PCA is arguably the most widely used statistical tool for data analysis and dimensionality reduction today. However, its brittleness with respect to grossly corrupted observations often `puts its validity in jeopardy` – a single grossly corrupted entry in M could render the estimated L arbitrarily far from the true L0.
 
 
 # Methodology
