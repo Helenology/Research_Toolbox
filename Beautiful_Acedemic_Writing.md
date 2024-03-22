@@ -34,6 +34,10 @@ Contributor: Qianhan Zeng
 - `accomodate` 近似替换 `satisfy`：*To `accommodate` a flexible correlation structure for our model, this article proposes a new multivariate logistic density.*
 - `respect` 替换 `satisfy`：*All the above assumptions are `respected` by most of the popular kernels, in particular the Gaussian, Exponential, Uniform, Triangular, Cosine kernel, etc.*
 
+**🚩 全篇固定一个写法/定义/说明**
+- Here and in the following we use the convention $0/0=0$.
+  
+
 # Experiments
 
 # Reference
