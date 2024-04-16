@@ -91,6 +91,26 @@ The following references provides the proof of related condition under the sub-G
 The following references provides the proof of related condition under the sub-Weibull design.
 
 - Kuchibhotla, A. K., & Chakrabortty, A. (2022). Moving beyond sub-Gaussianity in high-dimensional statistics: Applications in covariance estimation and linear regression. Information and Inference: A Journal of the IMA, 11(4), 1389-1456.
+
+
+### Nonparametric Modeling
+
+If you want to learn the distribution-free theory of machine learning, please read refer to the following book. The writing is good and intuitive. The theory is a little tough (at least for me).
+
+- Györfi, L., Kohler, M., Krzyzak, A., & Walk, H. (2002). A distribution-free theory of nonparametric regression (Vol. 1). New York: Springer.
+
+#### Nonparametric Kernel Estimation
+
+If you are novice, please refer to Li Qi's book. If you want to read more technical parts, please refer to Ullah and Pagan's book.
+
+- Li, Q., & Racine, J. S. (2023). Nonparametric econometrics: theory and practice. Princeton University Press.
+- Ullah, A., & Pagan, A. (1999). Nonparametric econometrics. Cambridge: Cambridge university press.
+
+
+
+
+
+
 ### Time Series Analysis
 
 ### Model Averaging
