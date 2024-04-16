@@ -42,6 +42,12 @@ This technique is generalized to the case of diverging dimensional in the follow
 
 Note: Local consistency means there exists a local maximizer such that the estimator will converge in probability (or almost surely) to it. Given the loss function is convex, the local maxima is also the global maxima. The local consistency is just the global consistency. While for nonconvex loss function, the local maxima might not be the global maxima, the methods in Fan and Li (2001) might not be used in such cases. An alternative proof technique might be the consistency theorem in Newey and McFadden (1994), but the verification of identification condition might be challenging.
 
+### Uniform LLN
+
+Section 9 of the book of Györfi provides details explanation and proofs for uniform LLN, including covering, packing, shatter, VC dimension, etc.
+
+- Györfi, L., Kohler, M., Krzyzak, A., & Walk, H. (2002). A distribution-free theory of nonparametric regression (Vol. 1). New York: Springer.
+
 ### Martingale CLT 
 
 This theorem is commonly used in time series analysis and high dimensional hypothesis testing. 
@@ -93,15 +99,11 @@ The following references provides the proof of related condition under the sub-W
 - Kuchibhotla, A. K., & Chakrabortty, A. (2022). Moving beyond sub-Gaussianity in high-dimensional statistics: Applications in covariance estimation and linear regression. Information and Inference: A Journal of the IMA, 11(4), 1389-1456.
 
 
-### Nonparametric Modeling
 
-If you want to learn the distribution-free theory of machine learning, please read refer to the following book. The writing is good and intuitive. The theory is a little tough (at least for me).
+### Nonparametric Kernel Estimation
 
-- Györfi, L., Kohler, M., Krzyzak, A., & Walk, H. (2002). A distribution-free theory of nonparametric regression (Vol. 1). New York: Springer.
+The following books contain bias-variance trade-off, LLN, and CLT proofs for KDE (kernel density estimation) and regression.
 
-#### Nonparametric Kernel Estimation
-
-If you are novice, please refer to Li Qi's book. If you want to read more technical parts, please refer to Ullah and Pagan's book.
 
 - Li, Q., & Racine, J. S. (2023). Nonparametric econometrics: theory and practice. Princeton University Press.
 - Ullah, A., & Pagan, A. (1999). Nonparametric econometrics. Cambridge: Cambridge university press.
