@@ -5,7 +5,7 @@
   - [1.2. 插图](#12-插图)
   - [1.3. 演讲技巧](#13-演讲技巧)
 - [2. Academic Writing](#2-academic-writing)
-  - [English Recycling and Polishing ✨](#english-recycling-and-polishing-)
+  - [Academic Phrasing Recycling ✨](#academic-phrasing-recycling-)
   - [Abstract](#abstract)
   - [Introduction](#introduction)
   - [Literature](#literature)
@@ -60,11 +60,11 @@
 
 # 2. Academic Writing
 
-##  English Recycling and Polishing ✨
+##  Academic Phrasing Recycling ✨
 
-- 按照文章的结构，将**可重复利用的优美语句或科研用语**更新在
-[Beautiful_Acedemic_Writing.md](./Beautiful_Acedemic_Writing.md) ✨
-   -  [x] 最新更新 231109
+- 按照文章的结构，将**可重复利用的学术论文遣词造句**更新在
+[Academic_Phrasing.md](./Academic_Phrasing.md) ✨
+   -  [x] 最新更新 240428
 
 - 同义词替换（from `good` to `terrific`)：[freethesaurus](https://www.freethesaurus.com/) 和 [thesaurus](https://www.thesaurus.com/) 
 - chatGPT 永远的神
