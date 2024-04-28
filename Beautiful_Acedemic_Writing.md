@@ -36,7 +36,10 @@ Contributor: Qianhan Zeng
 
 **🚩 全篇固定一个写法/定义/说明**
 - Here and in the following we use the convention $0/0=0$.
-  
+
+**🚩 需要提前使用一个之后再定义的符号**
+
+- $\mu$ is the xxx parameter, `which will be formally defined later` in Assumption 1.
 
 # Experiments
 
