@@ -21,8 +21,8 @@
     - [Sub-Figures](#sub-figures)
   - [Reference](#reference)
   - [LaTex Tips](#latex-tips)
-- [3. Submission](#3-submission)
-  - [3.1. reply letter](#31-reply-letter)
+- [3. Toward Acceptance](#3-toward-acceptance)
+  - [3.1. Reply Letter](#31-reply-letter)
   - [3.2. 如何与editor沟通](#32-如何与editor沟通)
   - [3.x. 求神拜佛](#3x-求神拜佛)
 
@@ -140,12 +140,14 @@
 
 
 
-# 3. Submission
+# 3. Toward Acceptance
 
 
-## 3.1. reply letter
+## 3.1. Reply Letter
 
-- reply letter里**可重复利用的语句**见 [Beautiful_Acedemic_Writing](/Beautiful_Acedemic_Writing.md)
+- reply 遣词造句见 [Academic_Phrasing.md](Academic_Phrasing.md)
+
+- reply 中才有的图表的序号最好与正文中图表的需要区分，例如正文采用 Figure 1，reply 里就可以采用 Figure I.
 
 
 
