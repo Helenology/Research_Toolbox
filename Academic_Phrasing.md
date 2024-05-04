@@ -40,6 +40,12 @@ Contributor: Qianhan Zeng
 **🚩 需要提前使用一个之后再定义的符号**
 
 - $\mu$ is the xxx parameter, `which will be formally defined later` in Assumption 1.
+- For example, `as is shown below`, the function which minimizes the $L_2$ risk can be derived explicitly.
+  
+
+**🚩 需要简化符号**
+- Here, $m_n(x) = m_n(x, D_n)$ is a measurable function of $x$ and the data. For simplicity, we will `suppress $D_n$ in the notation` and write $m_n(x)$ instead of $m_n(x, D_n)$.
+
 
 # Experiments
 
