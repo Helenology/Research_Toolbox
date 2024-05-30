@@ -64,7 +64,6 @@
 
 - 按照文章的结构，将**可重复利用的学术论文遣词造句**更新在
 [Academic_Phrasing.md](./Academic_Phrasing.md) ✨
-   -  [x] 最新更新 240428
 
 - 同义词替换（from `good` to `terrific`)：[freethesaurus](https://www.freethesaurus.com/) 和 [thesaurus](https://www.thesaurus.com/) 
 - chatGPT 永远的神
@@ -113,7 +112,7 @@
   - 代码结构可以参考别人的repo，例如 [negative-label-smoothing](https://github.com/UCSC-REAL/negative-label-smoothing) 和 [CCD](https://github.com/tianyu0207/CCD)
   - argparse（或者类似的功能）：https://tendcode.com/article/python-shell/
     > 用于命令行传参
-  - 实际编程中遇到的常见问题以及解决办法将持续更新在 [Practical_Coding_Solutions.md](./Practical_Coding_Solutions.md)
+
 
 ## Table and Figure
 
