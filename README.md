@@ -135,7 +135,7 @@
 ## LaTex Tips
 
 - 推荐的 LaTex 教程，参见 [LaTex Tips](LaTeX_Tips.md)
-
+- 经常忘记自己`\label`的名字：https://www.overleaf.com/learn/latex/Latex-questions/Keep_track_of_your_labels_with_showlabels
 
 
 
