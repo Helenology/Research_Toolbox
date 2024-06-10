@@ -36,6 +36,7 @@ Contributor: Qianhan Zeng
 
 **🚩 全篇固定一个写法/定义/说明**
 - Here and in the following we use the convention $0/0=0$.
+- Throughout this paper, unless otherwise stated, $\|\cdot\|$ represents the $\ell_2$ norm of a vector and a matrix. We will use $C$ and $C_i$ to denote positive constants independent of $(n_k , K, N )$.
 
 **🚩 需要提前使用一个之后再定义的符号**
 
@@ -45,6 +46,7 @@ Contributor: Qianhan Zeng
 
 **🚩 需要简化符号**
 - Here, $m_n(x) = m_n(x, D_n)$ is a measurable function of $x$ and the data. For simplicity, we will `suppress $D_n$ in the notation` and write $m_n(x)$ instead of $m_n(x, D_n)$.
+
 
 
 # Experiments
