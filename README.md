@@ -98,6 +98,10 @@
 ### Proof Theorem Citation
 - If you want to find some important theorems as references, start with consulting this document [Useful theorem sources](./Useful_theorem_sources.md).
 
+### Tricks
+
+- 求导验证：https://www.matrixcalculus.org/
+
 ### Formula Requirements
 
 - Stylistic Requirements（如何让文章看上去更规范和美观）需要参照期刊的要求，例如 [biostatistics的要求](https://static.primary.prod.gcms.the-infra.com/static/site/biostatistics/document/maths-style-ref.pdf?node=572c095a7860500162e9&version=439324:09b02a27db4dca3881c8) ：
