@@ -37,6 +37,7 @@ Contributor: Qianhan Zeng
 **🚩 全篇固定一个写法/定义/说明**
 - Here and in the following we use the convention $0/0=0$.
 - Throughout this paper, unless otherwise stated, $\|\cdot\|$ represents the $\ell_2$ norm of a vector and a matrix. We will use $C$ and $C_i$ to denote positive constants independent of $(n_k , K, N )$.
+- Here and throughout, $T$, when used as a superscript, denotes matrix transposition.
 
 **🚩 需要提前使用一个之后再定义的符号**
 
