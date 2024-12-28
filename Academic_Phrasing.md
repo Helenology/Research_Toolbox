@@ -30,6 +30,7 @@ Contributor: Qianhan Zeng
 
 **🚩 吹捧自己的工作：**
 - The data augmentation step makes the procedure `immune to overfitting`, so that the resulting prediction...
+- This extension is substantial in both methodology and applications.
 
 # Methodology
 
@@ -53,7 +54,7 @@ Contributor: Qianhan Zeng
 
 **🚩 需要简化符号**
 - Here, $m_n(x) = m_n(x, D_n)$ is a measurable function of $x$ and the data. For simplicity, we will `suppress $D_n$ in the notation` and write $m_n(x)$ instead of $m_n(x, D_n)$.
-
+- `For the ease of exposition`, we assume an equal sample size $m_i = m$.
 
 
 # Experiments
