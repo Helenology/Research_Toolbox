@@ -13,6 +13,7 @@
     - [文献管理软件+插件](#文献管理软件插件)
   - [Methodology](#methodology)
     - [Proof Theorem Citation](#proof-theorem-citation)
+    - [Tricks](#tricks)
     - [Formula Requirements](#formula-requirements)
   - [Numerical Study](#numerical-study)
     - [Coding](#coding)
@@ -101,6 +102,10 @@
 ### Tricks
 
 - 求导验证：https://www.matrixcalculus.org/
+- 在引用公式时可能忘记 `\eqref{}` 里的label (e.g., `eq:global_Hessian_matrix`)，可以使用下面的代码显示公式名称，写完证明后再隐去此行代码
+```
+\usepackage[inline]{showlabels}
+```
 
 ### Formula Requirements
 
