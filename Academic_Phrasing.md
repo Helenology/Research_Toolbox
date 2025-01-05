@@ -57,6 +57,13 @@ Contributor: Qianhan Zeng
 - `For the ease of exposition`, we assume an equal sample size $m_i = m$.
 
 
+**🚩 举出直观的例子**
+- In order to `build some intuition`
+- This notion is best understood by `working through some illustrative examples`.
+- As a `follow-up` to the previous example
+
+
+
 # Experiments
 
 # Reference
