@@ -14,6 +14,9 @@ Contributor: Qianhan Zeng
 - The increased availability of labeled X-ray image archives (e.g. ChestX-ray14 dataset) has `triggered` a growing interest in deep learning techniques.
 - As remarked in the previous section, we will `address` our attention to the second-order stationary processes. 
   
+**🚩 介绍本文内容：**
+- The objective of this work is `twofold`. First, XXX. Second, XXX.
+- The framework `encompasses` both XXX and XXX.
 
 
 # Literature
@@ -55,7 +58,7 @@ Contributor: Qianhan Zeng
 **🚩 需要简化符号**
 - Here, $m_n(x) = m_n(x, D_n)$ is a measurable function of $x$ and the data. For simplicity, we will `suppress $D_n$ in the notation` and write $m_n(x)$ instead of $m_n(x, D_n)$.
 - `For the ease of exposition`, we assume an equal sample size $m_i = m$.
-
+- Let $g(u)$ and $f(u)$ be `a shorthand of` $g_\eta(u)$ and $f_\eta(u)$, respectively.
 
 **🚩 举出直观的例子**
 - In order to `build some intuition`
@@ -63,6 +66,8 @@ Contributor: Qianhan Zeng
 - As a `follow-up` to the previous example
 
 
+**🚩 需要节省篇幅**
+- `For space consideration`, we present XXX in the supplementary materials.
 
 # Experiments
 
