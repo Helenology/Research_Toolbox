@@ -26,7 +26,7 @@ Contributor: Qianhan Zeng
 - `A line of recent research pursues` calculation of principal components under error minimization.
 - As shown in Fig. 1, `a wealth of research is dedicated to` the applications of diffusion models in diverse medical imaging scenarios.
 - Since diffusion models have recently received significant attention from the research community, the literature is experiencing `a large influx of` contributions in this direction.
-
+- In recent years, a `flourishing line of research` addresses the very high-dimensional regime.
 
 **🚩 批评前人的工作：**
 - PCA is arguably the most widely used statistical tool for data analysis and dimensionality reduction today. However, its brittleness with respect to grossly corrupted observations often `puts its validity in jeopardy` – a single grossly corrupted entry in M could render the estimated L arbitrarily far from the true L0.
@@ -46,6 +46,7 @@ Contributor: Qianhan Zeng
 - Here and in the following we use the convention $0/0=0$.
 - Throughout this paper, unless otherwise stated, $\|\cdot\|$ represents the $\ell_2$ norm of a vector and a matrix. We will use $C$ and $C_i$ to denote positive constants independent of $(n_k , K, N )$.
 - Constants $c$, $C$, $c_1$, $\cdots$ are understood to be independent of $n$.
+- From now on, we will always denote various positive absolute constants by $C$, $c$, $C_1$, $c_1$ without saying this explicitly.
 - We use “const” to symbolize a constant that does not depend on the model parameter $\theta$ and hence does not affect optimization.
 - Here and throughout, $T$, when used as a superscript, denotes matrix transposition.
 
