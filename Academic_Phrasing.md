@@ -34,6 +34,7 @@ Contributor: Qianhan Zeng
 **🚩 吹捧自己的工作：**
 - The data augmentation step makes the procedure `immune to overfitting`, so that the resulting prediction...
 - This extension is substantial in both methodology and applications.
+- Our approach `features` a one-stage continuous optimization-based implementation.
 
 # Methodology
 
