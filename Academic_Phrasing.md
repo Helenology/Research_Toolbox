@@ -62,6 +62,7 @@ Contributor: Qianhan Zeng
 - `For the ease of exposition`, we assume an equal sample size $m_i = m$.
 - Let $g(u)$ and $f(u)$ be `a shorthand of` $g_\eta(u)$ and $f_\eta(u)$, respectively.
 
+
 **🚩 举出直观的例子**
 - In order to `build some intuition`
 - This notion is best understood by `working through some illustrative examples`.
@@ -82,7 +83,7 @@ Contributor: Qianhan Zeng
 
 # Reply Letter
 
-### Point-By-Point Reponse to Reviewer
+### Point-By-Point Response to Reviewer
 
 **🚩句首感谢Reviewer提出宝贵意见**
 
