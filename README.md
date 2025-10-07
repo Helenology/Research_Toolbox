@@ -33,20 +33,20 @@
 
 # 1. Academic PPT
 
-## 1.1 Latex 数学公式
+## 1.1 LaTeX Math Formula
 
-- 非常推荐一个PPT的插件 [iguanatex](https://www.jonathanleroux.org/software/iguanatex/)，输入latex后生成就会以矢量图的方式插入latex代码（例如数学公式）
+- Highly recommend the PowerPoint plugin [iguanatex](https://www.jonathanleroux.org/software/iguanatex/), which allows you to input LaTeX directly and generates vector graphics (e.g., math equations).
 
 
 ![Alt text](/pics/image.png)
 
-## 1.2. 插图
+## 1.2. Illustration Resources
 
-- [阿里巴巴矢量图标库](https://www.iconfont.cn/)：矢量图
-- `iSlide`：在mac上可以搜到的APP，矢量图，每天下载有最大数量限制
-- [视觉中国网](https://www.vcg.com/creative-illustration/feibuxueguan/)：开始是免费试用，后来就要钱，图片质量很不错，氪金玩家可以考虑
+- [Alibaba Vector Icon Library](https://www.iconfont.cn/)：Vector icons
+- `iSlide`: A macOS app offering vector graphics; has a daily download limit
+- [Visual China](https://www.vcg.com/creative-illustration/feibuxueguan/): Free trial available, then paid; excellent image quality — worth it for premium users
 
-## 1.3. 演讲技巧
+## 1.3. Presentation Skills
 
 - 重要性：开头>结尾>中间，开头需要在一上来就吸引大家的目光
 - 如何短时间提高听众的兴趣：提一个问题；提到参加者的名字；讲一个笑话或者八卦（这个很难）
