@@ -76,6 +76,8 @@ Contributor: Qianhan Zeng
 
 # Reference
 
+- 记得检查引用的Arxiv文章，如果已经发表需要对应修改
+
 - 英文标题自动大小写：https://www.wordpressleaf.com/capitalize-title
   > 一般从谷歌学术上复制bibtex，但是参考文献的文章标题大小写往往风格不同，可能全部大写，全部小写，首字母大写等等，这个时候需要手动调整，可以把标题复制到这个网站上自动首字母大写
 
