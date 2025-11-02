@@ -42,8 +42,8 @@
 
 ## 1.2. Illustration Resources
 
-- [Alibaba Vector Icon Library](https://www.iconfont.cn/)：Vector icons
 - `iSlide`: A macOS app offering vector graphics; has a daily download limit
+- [Alibaba Vector Icon Library](https://www.iconfont.cn/)：Vector icons
 - [Visual China](https://www.vcg.com/creative-illustration/feibuxueguan/): Free trial available, then paid; excellent image quality — worth it for premium users
 
 ## 1.3. Presentation Skills
