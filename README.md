@@ -35,7 +35,7 @@
 
 ## 1.1 LaTeX Math Formula
 
-- Highly recommend the PowerPoint plugin [iguanatex](https://www.jonathanleroux.org/software/iguanatex/), which allows you to input LaTeX directly and generates vector graphics (e.g., math equations).
+- Highly recommend the PowerPoint plugin [iguanatex](https://www.jonathanleroux.org/software/iguanatex/), which allows you to input LaTeX directly and generates vector graphics (e.g., math equations). Download and install from [https://github.com/Jonathan-LeRoux/IguanaTex?tab=readme-ov-file#mac](https://github.com/Jonathan-LeRoux/IguanaTex?tab=readme-ov-file#mac).
 
 
 ![Alt text](/pics/image.png)
